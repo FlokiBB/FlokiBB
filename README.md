@@ -12,3 +12,4 @@
   * HardHat 
   * TypeScript 
   * Django
+  * Software Engineering
